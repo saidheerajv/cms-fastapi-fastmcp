@@ -8,7 +8,6 @@ The platform will later expose all operations through an MCP server, making the 
 
 This project serves as:
 
-- A deep Python learning project
 - A FastAPI architecture playground
 - A dynamic metadata-driven backend
 - A foundation for AI-native SaaS products
